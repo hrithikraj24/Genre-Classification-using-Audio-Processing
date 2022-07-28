@@ -1,0 +1,16 @@
+SPECTRAL CENTROID
+
+==>The spectral centroid is a measure used in digital signal processing to characterise a spectrum. It indicates where the center of mass of the spectrum is located. Perceptually, it has a robust connection with the impression of brightness of a sound.
+[Spectrum: In physics, the energy spectrum of a particle is the number of particles or intensity of a particle beam as a function of particle energy.]
+
+==>the weighted mean of the frequencies present in the signal, determined using a Fourier transform, with their magnitudes as the weights
+
+==>Because the spectral centroid is a good predictor of the "brightness" of a sound, it is widely used in digital audio and music processing as an automatic measure of musical timbre.[timbre aka tone color/tone quality distinguishes different types of sound production, such as choir voices and musical instruments, distinguish different instruments in the same category]
+
+=================================================================================================
+
+SPECTRAL ROLL OFF
+
+==>Spectral rolloff point is defined as the Nth percentile frequency of the power spectral distribution, where N is usually 85% or 95%. The rolloff point is the frequency below which the N% of the magnitude distribution is concentrated. In other words, the spectral rolloff point is the frequency so the N of the signal energy is contained below the this frequency.
+
+==>This measure is useful in distinguishing voiced speech from unvoiced: unvoiced speech has a high proportion of energy contained in the high-frequency range of the spectrum, where most of the energy for voiced speech and music is contained in lower bands.

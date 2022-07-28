@@ -1,0 +1,12 @@
+- Mono sound is when only one channel is used to convert a signal to a sound. Stereo sound is when multiple channels are used to convert multiple signals to sounds.
+
+- loading audio as time series array
+
+- sampling rate is the number of samples taken per second. industry standard sampling rate used.
+
+- we made sure the data set that we use is in 30 sec format and Mono audio
+
+
+
+
+
